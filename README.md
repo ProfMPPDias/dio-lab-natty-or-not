@@ -1,6 +1,5 @@
 # 🎥 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 Notas Detalhadas 📝
 
-| [![DIO.me](https://github.com/ClaudioMendonca-Eng/dio-trilha-java-basico/blob/main/img/dio.png)](https://dio.me) |
 |:--:|
 | O aplicativo "Youtube Notas Detalhadas" oferece aos usuários uma maneira prática de converter vídeos do YouTube com transcrição em notas detalhadas em português. Através da API do Gemini, o app traduz automaticamente o conteúdo do vídeo para o idioma desejado, gerando um resumo completo e preciso. |
 | <a href="https://www.youtube.com/watch?v=ohVOaP6SpMQ" target="_blank"><img style="margin: 10px" height="200" width="250" src="/img/logo_nexa_dio.png" alt="Logo do BootCamp"/></a> |
@@ -17,7 +16,6 @@ O app foi idealizado com o objetivo de auxiliar usuários que desejam:
 ## 🤖 Tecnologias Utilizadas
 Para dar vida ao app, a seguinte pilha tecnológica foi selecionada:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dio-bootcamp-nexa-youtubenotas.streamlit.app/)
 - Streamlit: Framework Python para criação de interfaces web interativas. Ideal para prototipagem rápida e deploy em plataformas online.
 - Python: Linguagem de programação versátil e poderosa, utilizada para o desenvolvimento da lógica principal do aplicativo.
 - API do Gemini: Ferramenta crucial para converter a fala em texto e traduzir idiomas. O Gemini Pro, versão paga da API, foi utilizado para garantir maior qualidade e recursos avançados.
@@ -41,13 +39,6 @@ O app "Youtube Notas Detalhadas" demonstra o potencial da tecnologia para facili
 
 ## Certificado
 
-- Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3
+- Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!
 
-[![Certificado](img/01_certificado.png)](https://www.dio.me/certificate/C1BZ1HVX)
-
-
-## Licença
-
-<a href="https://www.buymeacoffee.com/claudiomendonca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-Copyright © 2024 <a href="https://www.claudiomendonca.eng.br" target="_blank">ClaudioMendonca.eng.br</a> .
+[![Certificado](img/md_certificado.png)](https://www.dio.me/certificate/HUC7DEA5)
